@@ -1,0 +1,18 @@
+p.test {
+    color: aqua;
+}
+
+h1 {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    color: yellow;
+}
+
+body {
+    background-color: brown;
+    background-image: url('imgs/nyan-cat.avif');
+    background-size: 15px;
+}
+
+h1{
+    font-size: 50px;
+}
