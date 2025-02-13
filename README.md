@@ -19,4 +19,4 @@ https://nurulgulpen.github.io/my-awesome-project-datavis/
 Joury heeft deze readme aangevuld.
 
 ###dit is joury
-1[joury](image.jpg)
+![joury](image.jpg)
