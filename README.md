@@ -14,3 +14,9 @@ Data Visualisatie repo voor de opdrachten
 link to the website in my class:
 
 https://nurulgulpen.github.io/my-awesome-project-datavis/
+
+
+Joury heeft deze readme aangevuld.
+
+###dit is joury
+1[joury](image.jpg)
