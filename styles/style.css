@@ -1,7 +1,17 @@
-.test1 {
-  color: aliceblue;
+body {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 20px;
 }
 
-.test2 {
-    color: aqua;
+.chart-container {
+  padding: 10px 0;
+  margin: 20px 0;
+}
+
+.bar div{
+  background-color: #3498db;
+  border: white;
+  padding: 5px;
+  text-align: center;
+  border-radius: 4px;
 }
